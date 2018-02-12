@@ -1,3 +1,6 @@
+# Essai
+
+
 ## Pourquoi être sur les réseaux sociaux ?
 
 ---
@@ -5,6 +8,9 @@
 ## Enseigner/apprendre **avec** les réseaux sociaux
 
 +++
+
+On teste une modif
+
 
 Favoriser les échanges au sein du groupe : à distance, asynchrone, entre pair
 - Visite sur le terrain
