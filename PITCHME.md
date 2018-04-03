@@ -5,10 +5,6 @@ Florac - février 2018
 
 ---
 
-![essai](https://wikis.cdrflorac.fr/wikis/wiki063//files/Bilan_BLob_Tree3_vignette_544_544_20171215144913_20171215144913.gif  "Image")
-
----
-
 ## Préambule 1
 
 +++
