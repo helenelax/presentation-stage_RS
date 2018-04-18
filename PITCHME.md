@@ -111,11 +111,11 @@ Et après, les ateliers de prise en main
 ## Pourquoi être sur les réseaux sociaux ?
 
 ---
-![Test](https://ncloud.zaclys.com/index.php/apps/files_sharing/ajax/publicpreview.php?x=1235&y=553&a=true&file=Exemple_Leila_Silene01.jpg)
+![Sondage](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS/Exemple_Leila_Silene01.jpg)
 
 +++
 
-![Test detail](https://ncloud.zaclys.com/index.php/apps/files_sharing/ajax/publicpreview.php?x=1235&y=553&a=true&file=Exemple_Leila_Silene02.jpg)
+![Test detail](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS/Exemple_Leila_Silene02.jpg)
 
 ---
 ## Enseigner/apprendre **avec** les réseaux sociaux
@@ -133,14 +133,14 @@ Et après, les ateliers de prise en main
 
 ### Se mettre en lien avec l'extérieur
 - Faire sa veille - se tenir au courant de l'actualité de sa communauté d'intérêt   
-![veille perso](https://ncloud.zaclys.com/index.php/apps/files_sharing/ajax/publicpreview.php?x=1637&y=579&a=true&file=Exemple_Faire_sa_veille.png)
+![veille perso](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS/Exemple_Faire_sa_veille.png)
 
 +++
 
 ### Se mettre en lien avec l'extérieur
 
 - Enquêtes   
-![Enquêtes](https://ncloud.zaclys.com/index.php/apps/files_sharing/ajax/publicpreview.php?x=1637&y=579&a=true&file=Exemple_Enquetes_etudiants.png)
+![Enquêtes](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS/Exemple_Enquetes_etudiants.png)
 
 +++
 
@@ -153,7 +153,7 @@ Et après, les ateliers de prise en main
 
 ### Se mettre en lien avec l'extérieur
 - Échanger entre collègues 
-![Question iPad](https://ncloud.zaclys.com/index.php/apps/files_sharing/ajax/publicpreview.php?x=1637&y=579&a=true&file=Exemple_Echanges_avec_collegues.png)
+![Question iPad](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS/Exemple_Echanges_avec_collegues.png)
 
 - S'ouvrir grâce aux liens faibles |
 
@@ -161,21 +161,21 @@ Et après, les ateliers de prise en main
 
 ### Faire écrire
 - Twictée  
-![Twictéé](https://ncloud.zaclys.com/index.php/apps/files_sharing/ajax/publicpreview.php?x=1637&y=579&a=true&file=Exemple_Twictee.png)
+![Twictéé](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS/Exemple_Twictee.png)
 
 +++
 
 ### Faire écrire
 
 - Twitt Class  
-![Twit class](https://ncloud.zaclys.com/index.php/apps/files_sharing/ajax/publicpreview.php?x=1637&y=579&a=true&file=Exemple_Twittclass.png)
+![Twit class](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS/Exemple_Twittclass.png)
 
 +++
 
 ### Valoriser les travaux des élèves
 - Compte-rendu de voyage
 
-![Voyage Danemark](https://ncloud.zaclys.com/index.php/apps/files_sharing/ajax/publicpreview.php?x=1637&y=579&a=true&file=Exemple_Voyage_etude.png)
+![Voyage Danemark](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS/Exemple_Voyage_etude.png)
 
 
 - Diffusion de textes, d'images
@@ -184,30 +184,30 @@ Et après, les ateliers de prise en main
 
 ### Motiver les élèves
 
-![Histoire](https://ncloud.zaclys.com/index.php/apps/files_sharing/ajax/publicpreview.php?x=1637&y=579&a=true&file=Exemple_Motiver_Histoire.png)
+![Histoire](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS/Exemple_Motiver_Histoire.png)
 
 +++
 
 ### Motiver les élèves
-![Thème culturel](https://ncloud.zaclys.com/index.php/apps/files_sharing/ajax/publicpreview.php?x=1637&y=579&a=true&file=Exemple_Theme_culturel.png)
+![Thème culturel](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS/Exemple_Theme_culturel.png)
 
 +++
 
 ### Faire de la comm'
 - Communiquer sur le lycée pour le recrutement
-![recrutement1](https://ncloud.zaclys.com/index.php/apps/files_sharing/ajax/publicpreview.php?x=1637&y=579&a=true&file=Exemple_Aider_au_recrutement.png)
+![recrutement1](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS/Exemple_Aider_au_recrutement.png)
 
 ### Faire de la comm'
 - Communiquer sur le lycée pour le recrutement
-![recrutement2](https://ncloud.zaclys.com/index.php/apps/files_sharing/ajax/publicpreview.php?x=1637&y=579&a=true&file=Exemple_Recrutement2.png)
+![recrutement2](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS/Exemple_Recrutement2.png)
 
 +++
 
 - Communiquer sur les actions du CDI
-![commCDI](https://ncloud.zaclys.com/index.php/apps/files_sharing/ajax/publicpreview.php?x=1637&y=579&a=true&file=Exemple_Communication_CDI.png)
+![commCDI](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS/Exemple_Communication_CDI.png)
 
 ### Diffuser sa veille
-![Diffuser sa veille](https://ncloud.zaclys.com/index.php/apps/files_sharing/ajax/publicpreview.php?x=1637&y=579&a=true&file=Exemple_Diffuser_sa_veille.png)
+![Diffuser sa veille](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS/Exemple_Diffuser_sa_veille.png)
 
 --- 
 
@@ -226,15 +226,15 @@ Et après, les ateliers de prise en main
 
 ## On y est déjà !
 
-![On y est](https://ncloud.zaclys.com/index.php/apps/files_sharing/ajax/publicpreview.php?x=1235&y=553&a=true&file=Exemple_On_y_est_deja.png)
+![On y est](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS/Exemple_On_y_est_deja.png)
 
 +++
 
-![On y est 2](https://ncloud.zaclys.com/index.php/apps/files_sharing/ajax/publicpreview.php?x=1235&y=553&a=true&file=Exemple_On_y_est_deja_2.png)
+![On y est 2](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS/Exemple_On_y_est_deja_2.png)
 
 +++
 Et pas forcément sous notre plus beau jour...
-![Cochon supagro](https://ncloud.zaclys.com/index.php/apps/files_sharing/ajax/publicpreview.php?x=1235&y=553&a=true&file=Exemple_CochonSupagro.png)
+![Cochon supagro](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS/Exemple_CochonSupagro.png)
 
 
 
