@@ -145,7 +145,7 @@ Et après, les ateliers de prise en main
 +++
 
 ### Se mettre en lien avec l'extérieur
-- Correspondants étrangers 
+- Correspondants étrangers | 
 - Faire vivre le réseau des anciens |
 - Se créer un réseau professionnel (Enseignant et étudiants) |
 
