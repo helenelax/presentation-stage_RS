@@ -154,7 +154,6 @@ Et après, les ateliers de prise en main
 ### Se mettre en lien avec l'extérieur
 - Échanger entre collègues 
 ![Question iPad](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS/Exemple_Echanges_avec_collegues.png)
-
 - S'ouvrir grâce aux liens faibles |
 
 +++
@@ -297,3 +296,20 @@ Benjamin Bayart
 
 ---
 ## Crédits
+
+* Yes, I Mean No - Giphy - Jessie Jensen - Extrait de Saturday’s Warrior - Tous droits réservés
+* Photo de classe Ecole primaire Vagney - Gérard Louis - Tous droits réservés
+* Photo ENA Promotion Voltaire 1980 - Tous droits réservés
+* Questionnaire (conception Silène et Leïla) - Photo : Hélène Laxenaire CC By-SA
+* Copies d'écran Twitter - Tous droits réservés
+* Copies d'écran Facebook - Tous droits réservés
+* Vivre dans le Flux - Hades2k - Traffic flow on E6 - on Flickr - CC BY SA
+* There is no cloud - Chris Watterston - Tous droits réservés
+* *Sur Internet personne ne sait que tu es un chien* - Peter Steiner - paru dans le New Yorker du 5 juillet 1993 - Tous droits réservés
+* Affiche danger internet - Action Innocence  (ONG Suisse) - Tous droits réservés
+* Piraterie Partage - Flickr - g4ll4is - CC bySA
+* 3615 Facebook - Ufunk - Tous droits réservés
+* Marc Presky - Flickr - campuspartybrasi - CC by sa
+* *Tu peux m'installer ce logiciel ?* - Jim Borgman - Tous droits réservés
+
+
