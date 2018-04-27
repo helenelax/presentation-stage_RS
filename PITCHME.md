@@ -118,13 +118,8 @@ Et après, les ateliers de prise en main
 ![Test detail](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS/Exemple_Leila_Silene02.jpg)
 
 ---
-## Enseigner/apprendre **avec** les réseaux sociaux
 
-+++
-
-### Favoriser les échanges au sein du groupe : à distance, asynchrone, entre pair
-- Visite sur le terrain
-- Gestes professionnels
+### Favoriser les échanges au sein du groupe : à distance, asynchrone, entre pairs
 - Lien entre le lieu de stage et l'école
 - Classe inversée
 - Corrections par les pairs
@@ -138,14 +133,13 @@ Et après, les ateliers de prise en main
 +++
 
 ### Se mettre en lien avec l'extérieur
-
 - Enquêtes   
 ![Enquêtes](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS/Exemple_Enquetes_etudiants.png)
 
 +++
 
 ### Se mettre en lien avec l'extérieur
-- Correspondants étrangers | 
+- Correspondants étrangers
 - Faire vivre le réseau des anciens |
 - Se créer un réseau professionnel (Enseignant et étudiants) |
 
@@ -158,70 +152,33 @@ Et après, les ateliers de prise en main
 
 +++
 
-### Faire écrire
-- Twictée  
-![Twictéé](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS/Exemple_Twictee.png)
-
-+++
-
-### Faire écrire
-
-- Twitt Class  
-![Twit class](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS/Exemple_Twittclass.png)
-
-+++
-
-### Valoriser les travaux des élèves
-- Compte-rendu de voyage
-
-![Voyage Danemark](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS/Exemple_Voyage_etude.png)
-
-
-- Diffusion de textes, d'images
-
-+++
-
-### Motiver les élèves
-
+### Motiver les étudiants
 ![Histoire](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS/Exemple_Motiver_Histoire.png)
 
 +++
 
-### Motiver les élèves
+### Motiver les étudiants
 ![Thème culturel](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS/Exemple_Theme_culturel.png)
 
 +++
 
 ### Faire de la comm'
-- Communiquer sur le lycée pour le recrutement
+- Communiquer pour le recrutement
 ![recrutement1](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS/Exemple_Aider_au_recrutement.png)
 
 ### Faire de la comm'
-- Communiquer sur le lycée pour le recrutement
+- Communiquer pour le recrutement
 ![recrutement2](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS/Exemple_Recrutement2.png)
 
 +++
 
-- Communiquer sur les actions du CDI
+- Communiquer sur les actions de la bibliothèque
 ![commCDI](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS/Exemple_Communication_CDI.png)
 
 ### Diffuser sa veille
 ![Diffuser sa veille](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS/Exemple_Diffuser_sa_veille.png)
 
 --- 
-
-## Enseigner/apprendre **sur** les réseaux sociaux
-
-+++
-
-- Apprendre à communiquer
-- Comprendre comment cela fonctionne
-- Apprendre le bon usage
-- Apprendre à construire son identité numérique
-- Éducation aux médias et à l'information (EMI)
-- Éducation à la littératie numérique
-
----
 
 ## On y est déjà !
 
