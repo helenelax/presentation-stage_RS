@@ -251,7 +251,7 @@ Et pas forcément sous notre plus beau jour...
 ---
 
 ## Cloud computing 
-![Cloud computing](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS/There%2520is%2520no%2520cloud.png)  
+![Cloud computing](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS/There_is_no_cloud.gif)  
 <span style="font-size: 15px;">Pérennité / Confidentialité / Sécurité / Propriété des données / Alternatives </span>
 
 ---
