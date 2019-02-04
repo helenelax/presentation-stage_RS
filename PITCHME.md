@@ -1,7 +1,7 @@
 # Les réseaux sociaux
 ### Définition, fonctionnement, enjeux et usages
 Stage  *Facebook, Twitter, les réseaux sociaux : fonctionnement, enjeux et utilisation pédagogique*  
-Florac - février 2018
+Florac - février 2019
 
 ---
 
