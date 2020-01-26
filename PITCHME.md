@@ -245,7 +245,7 @@ Et pas forcément sous notre plus beau jour...
 
 ---
 ## Village planétaire
-![Village global](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS/Village_Disneyland_Gerard_Stolk_(vers_la_Pentecote)_CC_BY-NC2.jpg)
+![Village global](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS/Village_Disneyland_Gerard_Stolk_vers_la_Pentecote_CC_BY-NC2.jpg)
 <span style="font-size: 15px;">Ouverture / Homophilie ?  </span>
 Note:Marshall McLuhan
 
