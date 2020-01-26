@@ -244,6 +244,7 @@ Et pas forcément sous notre plus beau jour...
 ## Ça change quoi ?
 
 ---
+
 ## Village planétaire
 ![Village global](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS/Village_Disneyland_Gerard_Stolk_vers_la_Pentecote_CC_BY-NC2.jpg)
 <span style="font-size: 15px;">Ouverture / Homophilie ?  </span>
