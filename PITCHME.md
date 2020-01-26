@@ -1,7 +1,7 @@
 # Les réseaux sociaux
 ### Définition, fonctionnement, enjeux et usages
 Stage  *Facebook, Twitter, les réseaux sociaux : fonctionnement, enjeux et utilisation pédagogique*  
-Florac - février 2019
+Florac - janvier 2020
 
 ---
 
@@ -235,29 +235,40 @@ Et après, les ateliers de prise en main
 Et pas forcément sous notre plus beau jour...
 ![Cochon supagro](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS/Exemple_CochonSupagro.png)
 
+---
 
+## Pause !
 
 ---
 
 ## Ça change quoi ?
 
 ---
-
-## Vivre dans le Flux
-![Flux](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS/Traffic_Flow_on_E6_Flickr_Hades2k_CCBySa.jpg)  
-<span style="font-size: 15px;">danah boyd / Attention ? / Démocratisation ? / Homophilie ? </span>
+## Village planétaire
+![Village global](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS/Village_Disneyland_Gerard_Stolk_(vers_la_Pentecote)_CC_BY-NC2.jpg)
+<span style="font-size: 15px;">Ouverture / Homophilie ?  </span>
+Note:Marshall McLuhan
 
 ---
 
-## Cloud computing 
-![Cloud computing](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS/There_is_no_cloud.gif)  
-<span style="font-size: 15px;">Pérennité / Confidentialité / Sécurité / Propriété des données / Alternatives </span>
+## Vivre dans le Flux
+![Flux](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS/Traffic_Flow_on_E6_Flickr_Hades2k_CCBySa.jpg)  
+<span style="font-size: 15px;">Démocratisation ? / Attention ?  </span>
+Note:
+Les autoroutes de l'information
+Tout le monde est émeteur
+Besoins de compétences supplémentaires : fake news, etc...
+Monde complexe
+économie de l'attention
 
 ---
 
 ## Identité
 ![Personne ne sait que tu es un chien](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS/STEINER_sur_internet_personne_ne_sait_que_tu_es_un_chien.jpg)  
-<span style="font-size: 15px;">unique / multiple / construite / cachée</span>
+<span style="font-size: 15px;">unique / multiple / construite / cachée / traces </span>
+Note:
+l'algorithme sait que tu es un chien
+nouvelles compétences de construire son identité
 
 ---
 
@@ -267,27 +278,31 @@ Et pas forcément sous notre plus beau jour...
 
 Note:
 L'expression est de danah boyd
+1/4 sont des proches
+45 % des auteurs de viol sur les mineurs de moins de 15 ans sont eux-mêmes mineurs
+cela se passe à la maison ou dans un lieu connu
+
+---
+
+## Cloud computing 
+![Cloud computing](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS/There_is_no_cloud.gif)  
+<span style="font-size: 15px;">Confidentialité / Sécurité / Propriété des données / Pérennité </span>
+Note:
+Nuagiciel
+
 ---
 
 ## Propriété intellectuelle 
 ![Piratage et partage](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS/Piraterie-partage_Flickr_g4ll4is_CCbySA.jpg)  
-<span style="font-size: 15px;">Culture du remix / Partage et re-tweet / Curation / Perte de droit sur les données</span>
-
----
-
-## Minitel 2.0 ?
-![3614 Facebook](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS/3615-facebook.jpg)  
-<span style="font-size: 15px;">Concentration des données</span>
-
-Note: 
-Benjamin Bayart
+<span style="font-size: 15px;">Culture du remix / Partage et re-tweet / Curation /</span>
 
 ---
 
 ## Digital native : Digital migrant ?
 ![Marc Prensky](http://www.lamerguez.com/presentations_GitPich/presentation-stage_RS/MarkPrensky_campuspartybrasil_Flickr_ccBySa.jpg)  
 <span style="font-size: 15px;">Marc Prensky / compétences procédurales / compréhension / monde dissociés</span>
-
+Note:mais culture
+Ok boomer
 ---
 
 ## Changement de posture
@@ -306,15 +321,16 @@ Benjamin Bayart
 
 * Copies d'écran Twitter - Tous droits réservés
 * Copies d'écran Facebook - Tous droits réservés
+* Village Disneyland - Gerard Stolk - CC BY-NC 2.0 
 * Vivre dans le Flux - Hades2k - Traffic flow on E6 - on Flickr - CC BY SA
-* There is no cloud - Chris Watterston - Tous droits réservés
+
 
 +++
-
+* There is no cloud - Chris Watterston - Tous droits réservés
 * *Sur Internet personne ne sait que tu es un chien* - Peter Steiner - paru dans le New Yorker du 5 juillet 1993 - Tous droits réservés
 * Affiche danger internet - Action Innocence  (ONG Suisse) - Tous droits réservés
 * Piraterie Partage - Flickr - g4ll4is - CC bySA
-* 3615 Facebook - Ufunk - Tous droits réservés
+
 
 +++
 
